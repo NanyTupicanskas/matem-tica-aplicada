@@ -18,5 +18,3 @@ O objetivo é planejar metas futuras usando conceitos e matemática, organizados
   ## Curso 
   este projeto faz parte do curso da Alura: 
 **" Projeto de Vida: organizandio objetivos  futuros com matemática aplicada"**
-
-Kayllane Velozo.
